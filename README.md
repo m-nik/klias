@@ -2,6 +2,7 @@
 Kubectl aliases
 
 
+Add following lines to ~/.bashrc
 ```sh
 alias k="kubectl"
 source <(kubectl completion bash)
